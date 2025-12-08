@@ -1,4 +1,5 @@
 build/workspace/.ipynb_checkpoints
+build/workspace/test.ipynb
 build/workspace/data
 .idea/
 **/.DS_Store
