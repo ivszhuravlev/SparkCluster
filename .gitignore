@@ -1,5 +1,6 @@
 build/workspace/.ipynb_checkpoints
 build/workspace/test.ipynb
 build/workspace/data
+build/workspace/spark-warehouse
 .idea/
 **/.DS_Store
